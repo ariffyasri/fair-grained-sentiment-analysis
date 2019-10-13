@@ -14,7 +14,7 @@ Using target dependent sentiment analysis, we aim to extract five main entities,
 
 ## Methodology
 
-![alt text](https://raw.githubusercontent.com/ariffyasri/fair-grained-sentiment-analysis)
+![alt text](https://raw.githubusercontent.com/ariffyasri/fair-grained-sentiment-analysis/master/methodology.PNG)
 
 
 ## Team Members
@@ -29,13 +29,13 @@ Dataset: https://www.yelp.com/dataset
 ## Screenshot
 
 
-![alt text](https://raw.githubusercontent.com/ariffyasri/fair-grained-sentiment-analysis)
+![alt text](https://raw.githubusercontent.com/ariffyasri/fair-grained-sentiment-analysis/master/example1.PNG)
 
 
-![alt text](https://raw.githubusercontent.com/ariffyasri/fair-grained-sentiment-analysis)
+![alt text](https://raw.githubusercontent.com/ariffyasri/fair-grained-sentiment-analysis/master/example2.PNG)
 
 
-![alt text](https://raw.githubusercontent.com/ariffyasri/fair-grained-sentiment-analysis)
+![alt text](https://raw.githubusercontent.com/ariffyasri/fair-grained-sentiment-analysis/master/example3.PNG)
 
 
-![alt text](https://raw.githubusercontent.com/ariffyasri/fair-grained-sentiment-analysis)
+![alt text](https://raw.githubusercontent.com/ariffyasri/fair-grained-sentiment-analysis/master/example4.PNG)
