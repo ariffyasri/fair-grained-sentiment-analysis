@@ -10,7 +10,7 @@ As restaurant owner, the reviews given is valuable insight for their business. H
 
 ## Solution
 
-Using target dependent sentiment analysis, we aim to extract five main entities, that is, cleanliness/safety, taste/quality, services, location, and price, from the data and analyze the sentiment for each aspect 
+Using target dependent sentiment analysis, we aim to extract five main entities, that is, cleanliness, food taste, service, location, and price, from the yelp review data and analyze the sentiment for each aspect. See more in https://youtu.be/APIFXWAkth8
 
 ## Methodology
 
